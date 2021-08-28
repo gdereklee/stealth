@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "stealth-oms",
+      "type": "com.stealth.oms.stealthoms.Configuration",
+      "sourceType": "com.stealth.oms.stealthoms.Configuration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "stealth-oms.maximum",
+      "type": "java.lang.Integer",
+      "sourceType": "com.stealth.oms.stealthoms.Configuration",
+      "defaultValue": 0
+    },
+    {
+      "name": "stealth-oms.minimum",
+      "type": "java.lang.Integer",
+      "sourceType": "com.stealth.oms.stealthoms.Configuration",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
